@@ -1,6 +1,6 @@
 # 欢迎来到 EssentialsX 中文文档
 
-![EssentialsX](https://github.com/LYOfficial/EssentialsX-Wiki-zh_CN/images/EssentialsX.png)
+![EssentialsX](https://github.com/LYOfficial/EssentialsX-Wiki-zh_CN/blob/master/images/EssentialsX.png?raw=true)
 
 * Code 页面将保留英文版 Wiki 原文，Wiki 页面将展示中文文档。
 * 原 Wiki：https://essentialsx.net/wiki/Home.html
